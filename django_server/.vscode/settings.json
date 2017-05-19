@@ -1,0 +1,7 @@
+{
+	"python.pythonPath": "python3",
+	"files.exclude": {
+		"**/*.pyc": true,
+		"**/__pycache__": true
+  }
+}
