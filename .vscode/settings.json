@@ -3,5 +3,6 @@
 	"files.exclude": {
 		"**/*.pyc": true,
 		"**/__pycache__": true
-  }
+  },
+	"python.linting.pylintPath": "C:/Python36/Scripts/pylint.exe",
 }
