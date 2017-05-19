@@ -17,3 +17,6 @@ tests/coverage_html/
 tests/.coverage
 build/
 tests/report/
+
+angular_frontend/**/*.js
+angular_frontend/**/*.js.map
